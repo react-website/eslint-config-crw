@@ -1,8 +1,8 @@
 module.exports = {
     extends: [
-        'eslint-config-airbnb',
-        'eslint-config-prettier'
-    ].map(require.resolve),
+        'airbnb',
+        'prettier'
+    ],
     rules: {
         semi: ['error', 'never'],
         'no-console': 'off',

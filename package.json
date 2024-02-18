@@ -1,6 +1,6 @@
 {
   "name": "@react-website/eslint-config-crw",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "crw eslint config",
   "main": "index.js",
   "scripts": {
