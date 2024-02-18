@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-crw",
+  "version": "1.0.0",
+  "description": "crw eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qq2575896094",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-website/eslint-config-crw.git"
+  },
+  "keywords": [
+    "eslint",
+    "airbnb",
+    "prettier",
+    "crw"
+  ],
+  "bugs": {
+    "url": "https://github.com/react-website/eslint-config-crw/issues"
+  },
+  "homepage": "https://github.com/react-website/eslint-config-crw#readme",
+  "dependencies": {
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^9.1.0"
+  }
+}
