@@ -12,6 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/react-website/eslint-config-crw.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "eslint",
     "airbnb",
